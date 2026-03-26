@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://relieffromstay.org/sitemap.xml
